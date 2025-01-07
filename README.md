@@ -29,20 +29,20 @@
 ## Project setup
 
 ```bash
-$ npm install
+$ yarn add or yarn
 ```
 
 ## Compile and run the project
 
 ```bash
 # development
-$ npm run start
+$ yarn run start
 
 # watch mode
-$ npm run start:dev
+$ yarn run start:dev
 
 # production mode
-$ npm run start:prod
+$ yarn run start:prod
 ```
 
 ## Run tests
